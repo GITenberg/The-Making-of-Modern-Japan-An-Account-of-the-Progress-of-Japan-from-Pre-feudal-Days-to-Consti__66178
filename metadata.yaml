@@ -1,0 +1,33 @@
+_repo: The-Making-of-Modern-Japan-An-Account-of-the-Progress-of-Japan-from-Pre-feudal-Days-to-Consti__66178
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gubbins, John Harington
+    aliases:
+    - Gubbins, J. H. (John Harington)
+    - Gubbins, John H. (John Harington)
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '53672'
+    url: http://www.gutenberg.org/2009/agents/53672
+    wikipedia: https://en.wikipedia.org/wiki/John_Harington_Gubbins
+description: ''
+gutenberg_issued: '2021-08-30'
+identifiers:
+  gutenberg: '66178'
+  lccn: '23005147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- History -- Restoration, 1853-1870'
+- !lcsh 'Japan -- History -- Meiji period, 1868-1912'
+- !lcsh 'Japan -- Foreign relations -- 1868-1912'
+- !lcsh 'Japan -- Civilization -- 1868-1912'
+- !lcc 'DS'
+- GITenberg
+title: "The Making of Modern Japan\r\nAn Account of the Progress of Japan from Pre-feudal\
+  \ Days to Constitutional Government & the Position of a Great Power, With Chapters\
+  \ on Religion, the Complex Family System, Education, &c."
+url: http://www.gutenberg.org/ebooks/66178
