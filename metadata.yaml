@@ -1,5 +1,8 @@
 _repo: The-Making-of-Modern-Japan-An-Account-of-the-Progress-of-Japan-from-Pre-feudal-Days-to-Consti__66178
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66178-h/images/cover.jpg
 creator:
   author:
     agent_name: Gubbins, John Harington
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53672
     wikipedia: https://en.wikipedia.org/wiki/John_Harington_Gubbins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66178#The-Making-of-Modern-Japan-An-Account-of-the-Progress-of-Japan-from-Pre-feudal-Days-to-Consti_
 gutenberg_issued: '2021-08-30'
 identifiers:
   gutenberg: '66178'
